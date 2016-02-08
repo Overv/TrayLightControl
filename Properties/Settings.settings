@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TrayLightControl.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BridgeAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="GroupName1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Group 1</Value>
+    </Setting>
+    <Setting Name="GroupName2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Group 2</Value>
+    </Setting>
+    <Setting Name="GroupName3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Group 3</Value>
+    </Setting>
+    <Setting Name="GroupName4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Group 4</Value>
+    </Setting>
+    <Setting Name="FirstStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
